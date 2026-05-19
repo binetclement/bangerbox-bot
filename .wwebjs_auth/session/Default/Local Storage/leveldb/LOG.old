@@ -1,0 +1,6 @@
+2026/05/19-16:02:27.697 bcf1e Reusing MANIFEST /Users/Clement_1/Desktop/bangerbox-bot/.wwebjs_auth/session/Default/Local Storage/leveldb/MANIFEST-000001
+2026/05/19-16:02:27.701 bcf1e Recovering log #4
+2026/05/19-16:02:27.701 bcf1e Reusing old log /Users/Clement_1/Desktop/bangerbox-bot/.wwebjs_auth/session/Default/Local Storage/leveldb/000004.log 
+2026/05/19-16:03:27.702 bcf21 Level-0 table #8: started
+2026/05/19-16:03:27.704 bcf21 Level-0 table #8: 15927 bytes OK
+2026/05/19-16:03:27.705 bcf21 Delete type=0 #4
